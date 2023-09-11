@@ -27,7 +27,7 @@ pyshorteners
 countryinfo
 datetime
 pytz
-dnspython===3.2.0
+dnspython==3.2.0
 python-math
 psutil==5.9.4
 speedtest-cli
